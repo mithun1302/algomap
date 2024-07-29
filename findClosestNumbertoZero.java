@@ -1,5 +1,3 @@
-package com.mithun.algomap;
-
 public class findClosestNumbertoZero {
     public static void main(String[] args) {
         int[] nums = {2,-1,1};
