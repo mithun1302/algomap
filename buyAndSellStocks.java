@@ -1,4 +1,3 @@
-package com.mithun.leetcode75.arraysstrings;
 
 public class buyAndSellStocks {
     public static void main(String[] args) {
