@@ -1,5 +1,3 @@
-package com.mithun.algomap;
-
 public class mergeStringAlternate {
     public static void main(String[] args) {
         String word1 = "abc";
