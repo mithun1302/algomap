@@ -1,4 +1,3 @@
-package com.mithun.algomap;
 
 public class twoSumII {
     public static void main(String[] args) {
