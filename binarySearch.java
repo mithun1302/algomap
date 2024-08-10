@@ -1,5 +1,3 @@
-package com.mithun.algomap;
-
 public class binarySearch {
     public static void main(String[] args) {
         int[] nums = {-1,0,3,5,9,12};
