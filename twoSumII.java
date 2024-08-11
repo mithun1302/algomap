@@ -1,5 +1,3 @@
-package com.mithun.algomap;
-
 public class twoSumII {
     public static void main(String[] args) {
         int[] numbers = {2,7,11,15};
