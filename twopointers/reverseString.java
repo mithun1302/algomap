@@ -1,5 +1,3 @@
-package com.mithun.algomap;
-
 public class reverseString {
     public static void main(String[] args) {
         char[] s = {'h','e','l','l','o'};
